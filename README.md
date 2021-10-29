@@ -1,1 +1,1 @@
-# Ad-Blocker
+# Ad Blocker - Free & Simple
